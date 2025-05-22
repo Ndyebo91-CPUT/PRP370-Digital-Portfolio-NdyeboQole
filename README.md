@@ -7,10 +7,10 @@ This repository contains my digital portfolio for the Project Presentation 3 (PR
 - **Date**: 23 May 2025
 
 ## Digital Portfolio - Links
-- [CV Submission](CV-submission.md)
-- [Career Counselling](Career-counselling.md)
+- [CV Submission](portfolio/CV-submission.md)
+- [Career Counselling](portfolio/Career-counselling.md)
 - [Create a CV](Create-a-cv.md)
-- [Personality Assessment](Personality-assessment.md)
-- [Skills and Interests](Skills-and-interests.md)
+- [Personality Assessment](portfolio/Personality-assessment.md)
+- [Skills and Interests](portfolio/Skills-and-interests.md)
 
 
