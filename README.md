@@ -5,3 +5,12 @@ This repository contains my digital portfolio for the Project Presentation 3 (PR
 - **Student Number**: 210018615
 - **Subject**: Project Presentation 3 (PRP370S)
 - **Date**: 23 May 2025
+
+## Digital Portfolio - Links
+- [CV Submission](cv-submission.md)
+- [Career Counselling](career-counselling.md)
+- [Create a CV](create-a-cv.md)
+- [Personality Assessment](personality-assessment.md)
+- [Skills and Interests](skills-and-interests.md)
+
+
