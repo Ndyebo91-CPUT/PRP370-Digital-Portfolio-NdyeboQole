@@ -2,7 +2,8 @@
 
 ## Evidence
 - Attended a career workshop on 17/02/2025.
-<img width="943" alt="Personality_Assessment" src="https://github.com/user-attachments/assets/a6160960-e8d7-4c54-9edb-e2d29b8ee9bd" />
+
+-  Workshop notes and Personality-assessment results:<img width="943" alt="Personality_Assessment" src="https://github.com/user-attachments/assets/a6160960-e8d7-4c54-9edb-e2d29b8ee9bd" />
 
 
 ## Reflection 
