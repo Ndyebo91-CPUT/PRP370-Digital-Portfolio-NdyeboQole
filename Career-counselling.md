@@ -6,8 +6,9 @@
 
 
 ## Reflection 
-- **Situation**: I needed guidance on improving my job application skills.
-- **Task**: Learn effective CV writing techniques.
-- **Action**: Participated actively, took detailed notes, and practiced drafting a CV.
-- **Result**: Gained confidence and created a structured CV draft.
-
+- **Situation**: I needed guidance on improving my job application skills, as I felt overwhelmed by the competitive tech job market.
+- **Task**: Learn effective CV writing techniques to stand out to potential employers in the ICT field.
+- 
+- **Action**: Engaged fully in a career counselling session with the lecturer, asking questions about formatting and content, took notes on best practices and drafted a new CV, focusing on my diploma projects and technical skills.
+- 
+- **Result**: Not only did I gain confidence and produce a structured CV draft, but I also felt more prepared for future job applications. I plan to use these techniques for the next job applications in the next semester, ensuring my CV is tailored to each role.
