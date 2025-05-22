@@ -1,6 +1,6 @@
 ## Evidence
 - Attended a career workshop on 07/03/2025.
-<img width="953" alt="CV_Submission" src="https://github.com/user-attachments/assets/ec1a475c-b3bf-4196-a08a-9742b38261a5" />
+-  Workshop notes and CV_Submission-assessment results:<img width="953" alt="CV_Submission" src="https://github.com/user-attachments/assets/ec1a475c-b3bf-4196-a08a-9742b38261a5" />
 
 
 ## Reflection 
