@@ -1,6 +1,6 @@
 # Create-CV
 ## Evidence
-<img width="953" alt="CV_Submission" src="https://github.com/user-attachments/assets/7bdc9b80-14d7-4934-9f5b-a9e90a4477df" />
+-  Workshop notes and Create-CV-assessment results:<img width="953" alt="CV_Submission" src="https://github.com/user-attachments/assets/7bdc9b80-14d7-4934-9f5b-a9e90a4477df" />
 
 
 ## Reflection 
