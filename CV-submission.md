@@ -2,7 +2,7 @@
 
 ## Evidence
 - Attended a career workshop on 20 May 2025.
-- ![My CV Screenshot](images/cv-screenshot.png)
+- ![My CV Screenshot](C:\Users\W7130828\Pictures\DigitalPortfolio_screenshots\CV_Submission.png)
 
 ## Reflection 
 - **Situation**: I needed guidance on improving my job application skills.
