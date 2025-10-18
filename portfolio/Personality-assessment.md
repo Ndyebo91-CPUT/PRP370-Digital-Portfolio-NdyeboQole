@@ -6,7 +6,7 @@
 -  Workshop notes and Personality-assessment results:<img width="943" alt="Personality_Assessment" src="https://github.com/user-attachments/assets/a6160960-e8d7-4c54-9edb-e2d29b8ee9bd" />
 
 
-##Reflection: STAR Technique (Personality Assessment for Work Readiness)
+## Reflection: STAR Technique (Personality Assessment for Work Readiness)
 
 **Situation:** As part of my Diploma in Information and Communication Technology program at Cape Peninsula University of Technology, I recognized the importance of self-awareness in professional settings, particularly in ICT teams where collaboration and adaptability are key. To operate effectively in such environments and strengthen my job application skills, I sought to better understand my personality traits. This need arose during a work readiness training module in early 2025, where discussions highlighted how personality influences team dynamics, conflict resolution, and career fit in tech roles like software development or network management.
 Task: The primary objective was to conduct a comprehensive personality assessment to identify my professional strengths, weaknesses, and preferences. This involved selecting a reliable tool, completing the test, analyzing the results, and applying insights to real-world scenarios such as resume tailoring and teamwork strategies. The goal was to gain clarity on how my traits could enhance my contributions in ICT projects while addressing potential areas for growth.
